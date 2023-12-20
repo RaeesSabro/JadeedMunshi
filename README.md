@@ -1,2 +1,3 @@
 # JadeedMunshi
-financial web app
+Financial Web App
+Auther: Raees Haider
