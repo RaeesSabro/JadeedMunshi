@@ -1,3 +1,3 @@
 # JadeedMunshi
 Financial Web App
-Auther: Raees Haider
+Author: Raees Haider
