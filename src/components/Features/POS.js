@@ -4,7 +4,7 @@ const POS = () => {
   return (
     <div>
         <Header title="POS" />
-      POS
+      POS test
     </div>
   )
 }
